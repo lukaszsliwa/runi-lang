@@ -1,0 +1,9 @@
+# runI-lang
+
+Example interpreter wrote in Haskell with Parsec.
+
+Please install GHC before using.
+
+Author Lukasz Sliwa
+
+MIT license
